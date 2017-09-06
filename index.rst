@@ -9,8 +9,6 @@ Grace Lee의 GitHub Page
 
 이미지테스트
 ==========================
-![깃헙](https://guides.github.com/images/logo@2x.png "설명문구 생략가능")
-
-
-![쌀국수](../images/미분당_쌀국수.jpg)
+.. figure:: images/미분당_쌀국수.jpg
+    :align: center
 
