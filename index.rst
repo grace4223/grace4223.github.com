@@ -7,8 +7,4 @@ Grace Lee의 GitHub Page
 2. 해당 매뉴얼의 이력을 남기고, 매뉴얼을 공유하여 매뉴얼의 관리를 편리하게 한다. 
 3. 해당 매뉴얼 App은 Angular4로 구현하여 Angular 프레임워크의 사용성을 검증한다.
 
-이미지테스트
-==========================
-.. figure:: images/미분당_쌀국수.jpg
-:align: center
 
