@@ -10,5 +10,5 @@ Grace Lee의 GitHub Page
 이미지테스트
 ==========================
 .. figure:: images/미분당_쌀국수.jpg
-    :align: center
+:align: center
 
