@@ -12,4 +12,5 @@ Grace Lee의 GitHub Page
 ![깃허브][imgGithub]
 [imgGithub]: https://www.google.co.kr/images/nav_logo242.png "설명문구 생략가능"
 
-
+![쌀국수][imgRelativePath]
+[imgRelativePath]: ../images/미분당_쌀국수.jpg
